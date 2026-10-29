@@ -36,7 +36,7 @@ Top-Selling statistikası:
 Ən çox satılan məhsullar sorğusunda ilkin olaraq ən çox sifariş verilmiş ilk 5 məhsulun qaytarılması qərara alındı.
 
 Tapşırığa nə qədər vaxt sərf olundu?
-Bu tapşırığın hazırlanmasına, arxitekturanın qurulmasına və Postman ilə test edilməsinə ümumilikdə 1-2 gün vaxt sərf olundu.
+Bu tapşırığın hazırlanmasına, arxitekturanın qurulmasına və Postman ilə test edilməsinə ümumilikdə 7-8 saat  vaxt sərf olundu.
 
 
 Daha çox vaxtım olsaydı, nəyi dəyişərdim?
